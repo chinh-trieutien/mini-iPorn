@@ -296,5 +296,5 @@ Author:
 Section: Utilities
 Filename: debs//com.ienthach.xoainfo_2.8_iphoneos-arm.deb
 Size: 5680258
-MD5sum: e8c95998647ecad352d396060d8e2e1d
+MD5sum: 88139b617cb46c230690a20ccbecc5f4
 Depends: com.rpetrich.rocketbootstrap, mobilesubstrate, curl, openssh, zip, unzip
