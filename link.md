@@ -1,1 +1,1 @@
-https://github.com/chinh-trieutien/mini-iPorn/
+https://chinh-trieutien.github.io/mini-iPorn/
