@@ -285,3 +285,16 @@ Filename: debs//XoaInfo2018_1.2.2-4_Nam.deb
 Size: 2580732
 MD5sum: e8c95998647ecad352d396060d8e2e1d
 Depends: firmware(>=7.0), com.rpetrich.rocketbootstrap, mobilesubstrate, curl, openssh, zip, unzip
+
+Package: com.ienthach.XoaInfo2018
+Name: XoaInfo2018
+Version: 1.2.2-4
+Architecture: iphoneos-arm
+Description: Tweak Support for Xoainfo
+Maintainer:
+Author:
+Section: Utilities
+Filename: debs//com.ienthach.xoainfo_2.8_iphoneos-arm.deb
+Size: 5680258
+MD5sum: e8c95998647ecad352d396060d8e2e1d
+Depends: com.rpetrich.rocketbootstrap, mobilesubstrate, curl, openssh, zip, unzip
