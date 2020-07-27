@@ -286,8 +286,8 @@ Size: 2580732
 MD5sum: e8c95998647ecad352d396060d8e2e1d
 Depends: firmware(>=7.0), com.rpetrich.rocketbootstrap, mobilesubstrate, curl, openssh, zip, unzip
 
-Package: com.ienthach.XoaInfo2.8
-Name: XoaInfo2.8
+Package: com.ienthach.XoaInfo28
+Name: XoaInfo28
 Version: 1.2.2-4
 Architecture: iphoneos-arm
 Description: Tweak Support for Xoainfo
